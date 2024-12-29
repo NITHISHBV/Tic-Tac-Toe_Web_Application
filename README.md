@@ -31,7 +31,7 @@ CSS: Responsible for styling the game, including the grid, buttons, and overall 
 JavaScript: Handles the game logic, including player turns, win detection, game reset, and interactions between the game elements. It also ensures that the game state is properly managed throughout the gameplay.
 
 Demo Link:
-https://nithishbv.github.io/PRODIGY_WD_03/PRODIGY_WD_03_HTML.html
+https://nithishbv.github.io/Tic-Tac-Toe_Web_Application/PRODIGY_WD_03_HTML.html
 
 Contact Information:
 For inquiries or more information, feel free to contact me at bvnithish2002@gmail.com.
